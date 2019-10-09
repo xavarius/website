@@ -3,8 +3,8 @@
 Small, pet project which enables me to write simple website.
 
 Domain:
-http://maciejmalak.ml/
-http://www.maciejmalak.ml/
+* http://maciejmalak.ml/
+* http://www.maciejmalak.ml/
 
 Created with:
 * HTML
